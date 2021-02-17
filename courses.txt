@@ -1,0 +1,4 @@
+Programming 	74(lect) 	66(pract) 	20(lab) 	140(self)
+Management 	76(lect) 	38(pract) 	4(lab) 		68(self)
+Finance&Credit 	80(lect) 	34(pract) 	- 		76(self)
+PE 		- 		36(pract) 	- 		12(self)
