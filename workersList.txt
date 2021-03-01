@@ -1,0 +1,12 @@
+Name Surname Position Salary Bonus units
+Vokogu Aonam IntegrationSpecialist 19500 2000 Cr
+Grergu Bovox IntegrationDepartmentHead 29000 10000 Cr
+Natosu Dekene SupportSpecialist 16000 3000 Cr
+Gropa Gruroe IntegrationSpecialist 17500 1500 Cr
+Rodua Hano IntegrationSpecialist 21000 2000 Cr
+Vokogu Krego SeniorSalesManager 12500 11900 Cr
+Rodua Rorga Director 30500 10000 Cr
+Krovruse Rurgao SalesDepartmentHead 29000 10000 Cr
+Dasto Studua ChiefIntegrationSpecialist 21500 3500 Cr
+Vruvanu Tetranu SalesManager 10500 8700 Cr
+Terom Togra SalesManager 10500 12800 Cr
